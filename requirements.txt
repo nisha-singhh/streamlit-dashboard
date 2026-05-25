@@ -3,4 +3,3 @@ pandas
 plotly
 openpyxl
 Pillow
-(Note: openpyxl is the engine that allows Pandas to read your Adidas.xlsx file.)
