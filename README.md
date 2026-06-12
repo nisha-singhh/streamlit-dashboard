@@ -87,11 +87,11 @@ Live Application: https://adidas-analytics-dashboard.streamlit.app/
 
 👨‍💻 Author
 
-Your Name
+Nisha Singh
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/nisha-singhh
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/nisha=singhh
 
 ⭐ If you like this project
 
